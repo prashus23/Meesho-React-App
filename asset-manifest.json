@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Meesho-React-App/static/css/main.767025f6.css",
+    "main.js": "/Meesho-React-App/static/js/main.4967d849.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Meesho-React-App/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Meesho-React-App/index.html",
+    "main.767025f6.css.map": "/Meesho-React-App/static/css/main.767025f6.css.map",
+    "main.4967d849.js.map": "/Meesho-React-App/static/js/main.4967d849.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Meesho-React-App/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.767025f6.css",
+    "static/js/main.4967d849.js"
+  ]
+}
