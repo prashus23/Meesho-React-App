@@ -2,6 +2,7 @@ import './App.css';
 import Header from './Component/Header/Header';
 import LowestPrice from './Component/LowestPrice/LowestPrice';
 import Navbar from './Component/Navbar/Navbar';
+import Product from './Component/ProductPage/Product';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Header/>
       <Navbar/>
       <LowestPrice />
+      <Product/>
     </div>
   );
 }

@@ -171,6 +171,9 @@
     display: flex;
 }
 
+
+
+
 .meeesho_benifit_image{
     width: 20px;
     margin-right: 10px;
@@ -200,7 +203,6 @@
     padding: 20px 30px;
     color:white;
 }
-
 .signup_btn_now{
     background-color: white;
     color:black;
