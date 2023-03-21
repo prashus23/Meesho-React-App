@@ -7,7 +7,7 @@ export default[
         rating : "3.5",
         review : "790",
         category : "bluetooth Headset",
-        img : "boat_airpods.webp"
+        img : "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/AD191G-FI_Blue05_1500x.png?v=1658738968",
     },
     {
         id : "product_2",

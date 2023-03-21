@@ -76,3 +76,8 @@
 .product_name{
     text-transform: capitalize;
 }
+
+.product-left{
+    display: flex;
+    flex-direction: column;
+}

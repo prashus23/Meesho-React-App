@@ -23,8 +23,13 @@ nav ul{
     margin: 0;
     /* background-color: red; */
     border-bottom: 2px solid transparent;
-    cursor: pointer; 
-    
+    cursor: pointer;    
+}
+
+.all-women{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
 }
 
 nav li{
@@ -43,10 +48,11 @@ nav li :hover{
     /* text-decoration: underline; */
     /* text-decoration-color: rgb(243,56,153); */
     border-bottom: 4px solid rgb(243,56,153);
+    width: fit-content;
 }
 
 nav ul :hover{
-    color: rgb(243,56,153);
+    color: rgb(173, 173, 173);
     /* text-decoration: underline; */
     /* text-decoration-color: rgb(243,56,153); */
     border-bottom: 4px solid rgb(243,56,153);

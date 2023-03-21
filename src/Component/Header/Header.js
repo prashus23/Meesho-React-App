@@ -5,14 +5,17 @@ import PhoneAndroidIcon from '@mui/icons-material/PhoneAndroid';
 import PersonIcon from '@mui/icons-material/Person';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 
+import { Link } from "react-router-dom";
+
+
 const Header = () => {
   return (
 
     <header class="header">
         <div class="headerLeft">
-            <div class="logoContainer">
-                <img src="" />
-            </div>
+            <Link class="logoContainer" to='/'>
+                <img src="https://etimg.etb2bimg.com/photo/86809724.cms" />
+            </Link>
 
             {/* seach box */}
             <div class="searchInputContainer">
