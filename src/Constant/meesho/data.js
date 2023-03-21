@@ -1,4 +1,4 @@
-export default[
+export const data = [
     {
         id : "product_1",
         name : "boAt New AirPods Pro",
@@ -7,7 +7,7 @@ export default[
         rating : "3.5",
         review : "790",
         category : "bluetooth Headset",
-        img : "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/AD191G-FI_Blue05_1500x.png?v=1658738968",
+        img :"https://rukminim1.flixcart.com/image/200/200/khf63680/cases-covers/back-cover/d/7/g/spigen-acs02256-original-imafxfgbffqaugur.jpeg?q=70",
     },
     {
         id : "product_2",
@@ -17,7 +17,9 @@ export default[
         rating : "3.8",
         review : "691",
         category : "bluetooth Headset",
-        img : "Bluetooth_Headset_1.webp"
+        // img : "Bluetooth_Headset_1.webp"
+        img: 'https://rukminim1.flixcart.com/image/300/300/kll7bm80/smartwatch/c/1/n/43-mo-sw-sense-500-android-ios-molife-original-imagyzyycnpujyjh.jpeg?q=70', 
+
     },
     {
         id : "product_3",
@@ -289,4 +291,4 @@ export default[
         category : "watch",
         img : "watch_2.webp"
     },
-]
+];
